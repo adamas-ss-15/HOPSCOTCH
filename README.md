@@ -1,4 +1,3 @@
-# HOPSCOTCH[hopscotch.html](https://github.com/user-attachments/files/26204182/hopscotch.html)
 <!DOCTYPE html>
 <html lang="ja">
 <head>
